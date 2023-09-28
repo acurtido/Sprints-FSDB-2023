@@ -10,8 +10,8 @@
     - Mantenible.
     - Escalable.
 - Proyectos:
-  - [Testimonial grid section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
-  - [Interactive card details form](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw)
+  - Sprint 1 y 2 [Testimonial grid section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
+  - Sprint 3 [Interactive card details form](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw)
 
 Día 1
 - Dividir el proyecto Testimonial grid section en pequeños problemas.
